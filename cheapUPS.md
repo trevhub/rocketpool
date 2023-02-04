@@ -85,14 +85,14 @@ To configure the above setting run `sudo nano /etc/pwrstatd.conf`
 
 I modify the following:
 
-I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure.
+I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure find the following and switch to no.
 
 ```
 powerfail-active = no
 powerfail-shutdown = no
 ```
 
-Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%)
+Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%). Any devices that are not your node and are plugged in to the battery powered plugs will continue to be powered until the battery is totally drained.
 
 `lowbatt-threshold = 35`
 
@@ -100,8 +100,7 @@ I turn the alarm off (I'll notice the power has gone out if I am home, if not I'
 
 `enable-alarm = off`
 
-
-
+You can also enable email notifications. User manual is in the PowerPanel downloads page.
 
 
 `sudo pwrstat -status` Should show an output like this. 
