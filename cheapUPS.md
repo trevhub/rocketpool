@@ -23,4 +23,4 @@ Management software: PowerPanel® Personal
 Warranty: 3 year
 Connected Equipment Guarantee: $75,000
 ```
-A 255W capacity is more than enough for my staking machine, cable modem and router. 
+A 255W capacity is more than enough for my staking machine (13W), cable modem (60W) and router (10W). 
