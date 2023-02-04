@@ -21,7 +21,7 @@ PCIe 3.0 M.2 slot
 Power adapter included
 ```
 
-I found this on EBay, the seller had 50 of these units for sale. No SSD was included which makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
+The seller had 50 of these units for sale. No SSD was included which makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
 
 ## **Elitedesk Price: $69.99 + $22.96 shipping = $89.95USD** ##
 
