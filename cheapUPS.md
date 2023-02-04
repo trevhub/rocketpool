@@ -43,5 +43,5 @@ I went with Cyberpowers Powerpanel.
 https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
 
 choose your install file.
-
+![powerpanel](/../photos/powerpanel.png)
 I'm 
