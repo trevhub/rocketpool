@@ -9,3 +9,17 @@ I looked for the cheapest UPS with the USB connection needed for a graceful shut
 
 Cyberpower
 CP425SLG
+MSRP: $57.95USD
+Specs:
+```
+Capacity: 425 VA / 255 W
+Topology: Standby
+Waveform: Simulated Sine Wave
+Output: 120 VAC ± 5%
+Plug type & cord: NEMA 5-15P, 5 ft. cord
+Outlet types: 8 × NEMA 5-15R
+Communication ports: USB
+Management software: PowerPanel® Personal
+Warranty: 3 year
+Connected Equipment Guarantee: $75,000
+```
