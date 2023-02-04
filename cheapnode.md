@@ -73,6 +73,6 @@ Add NVMe Temp to your gradana following this [guide by Patches](https://gist.git
 
 
 
-Other considerations: Used miniPCs like this one may have been run 24/7 for years on end so I blew it out with compressed air, applied new thermal paste to the CPU. During initial sync the NVMe temps spiked to the mid 70’s C for a day and a half so I also added a cheap NVMe heatsink.
+*Other considerations: Used miniPCs like this one may have been run 24/7 for years on end so I blew it out with compressed air, applied new thermal paste to the CPU. During initial sync CPU load was pegged at 100% and the NVMe temps spiked to the mid 70’s C for a day and a half so I also added an cheap NVMe heatsink.*
 
 Trevorn.eth
