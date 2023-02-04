@@ -55,6 +55,6 @@ Install replacing [PATH] with the location of the downloaded .deb file.
 
 connect the USB cable from UPS to your node. `sudo pwrstat -status` Should show an output like this. 
 
-[pwrstat](/../photos/pwrstat.png)
+![pwrstat](/../photos/pwrstat.png)
 
 
