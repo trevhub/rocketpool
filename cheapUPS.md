@@ -81,9 +81,7 @@ Action for Battery Low:
 	Enable shutdown system ..................... On
 
 ```
-To configure what happens in the event of a shutdown edit `sudo nano /etc/pwrstatd-powerfail.sh`
-
-For low battery event edit`sudo nano /etc/pwrstatd-lowbatt.sh`
+To configure the above setting run `sudo nano /etc/pwrstatd.conf`
 
 `sudo pwrstat -status` Should show an output like this. 
 
