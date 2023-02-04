@@ -34,3 +34,5 @@ The connections:
 The left side of the CP425SLG is for surge protection and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
 
 ## **Installing the Cyberpower software on your node:** ##
+
+There are two options for UPS management in linux. **Cyberpowers PowerPanel** to configure and monitor your UPS or **Network UPS Tools(NUT)**. A free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models.
