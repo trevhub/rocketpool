@@ -127,3 +127,4 @@ The UPS information shows as following:
 		Last Power Event............. None
 ```
 
+## **BIOS settings to Power your Staking machine on when power is present** ##
