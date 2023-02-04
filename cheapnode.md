@@ -27,7 +27,7 @@ I found this on EBay, the seller had 50 of these units for sale. Lack of SSD mak
 ## **Price: $69.99 + $22.96 shipping = $89.95USD** ##
 
 
-With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power. 8GB is not the recommended amount of ram in the rocketpool docs. At a minimum an additional 8GB stick of RAM is required. Because I didn’t want to be limited in what execution client and consensus client I purchased and installed 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
+With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. 8GB is not the recommended amount of ram in the rocketpool docs. At a minimum an additional 8GB stick of RAM is required. Because I didn’t want to be limited in what execution client and consensus client I purchased and installed 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
 
 
 CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Memory
