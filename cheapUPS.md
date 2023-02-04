@@ -86,13 +86,16 @@ To configure the above setting run `sudo nano /etc/pwrstatd.conf`
 I modify the following:
 
 I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure.
+
 `powerfail-active = no`
 `powerfail-shutdown = no`
 
 Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%)
+
 `lowbatt-threshold = 35`
 
 I turn the alarm off (I'll notice the power has gone out if I am home, if not I'll get beaconcha.in notifications that my validator is offline)
+
 `enable-alarm = off`
 
 
