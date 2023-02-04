@@ -4,7 +4,7 @@ With LEB8's around the corner and an ideal hardware solution being a NUC I thoug
 
 First I picked up this used MiniPC from Ebay:
 
-![HPelitedesk800mini](/800-g32.jpg)
+![HPelitedesk800mini](/../photos/800-g32.jpg)
 
 ### **HP EliteDesk 800 G3 Mini** ### 
 Review with internal photos of RAM and NVMe location [here](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/)
@@ -50,7 +50,7 @@ Price $159.99USD
 For other suitable NVMe drives that will meet the task of home staking read [Yorrick’s guide](https://gist.github.com/yorickdowne/f3a3e79a573bf35767cd002cc977b038).
 
 
-![RAM and NVMe installed](/IMG_3583.png)
+![RAM and NVMe installed](/../photos/IMG_3583.png)
 
 
 After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. Sync took around 30 hours and then I restored my wallet.
@@ -58,7 +58,7 @@ After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. Sync took a
 
 For a total of approximately $330.00USD This is the performance you can expect. 
 
-![Grafana Dashboard](/elitedesk800.png)
+![Grafana Dashboard](/../photos/elitedesk800.png)
 
 
 Running Lighthouse/Nethermind:
