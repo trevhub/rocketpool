@@ -22,17 +22,12 @@ Power adapter included
 
 I found this on EBay, the seller had 50 of these units for sale. No SSD was included which makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
 
-
 ## **Price: $69.99 + $22.96 shipping = $89.95USD** ##
-
 
 With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. 8GB is below the recommended amount of ram in the rocketpool docs. At the minimum an additional 8GB stick was required. Because I didn’t want to be [limited in what execution client and consensus client I could run](https://docs.rocketpool.net/guides/node/local/hardware.html#hardware-requirements) I purchased 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
 
+**CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Memory**
 
-CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Memory
-
-
-Newegg.com Price
 ## **Price: $79.99USD** ##
 
 
