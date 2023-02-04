@@ -31,3 +31,4 @@ router (10W)
 
 The connections:
 ![ups connections](/../photos/UPSconnections.png)
+The left side of the CP425SLG is for surge protection and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
