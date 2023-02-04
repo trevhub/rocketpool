@@ -37,7 +37,7 @@ The left side of the CP425SLG is for surge protection and doesnt run on battery 
 
 There are two options for UPS management in linux. **[Cyberpowers PowerPanel](https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/)** to configure and monitor your UPS or **[Network UPS Tools](https://networkupstools.org/)**. NUT is A free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models.
 
-*Security Note: you are about to install software on your staking machine, always independently verify.*
+*Security Note: you are about to install software on your staking machine, always independently verify URLs.*
 
 I went with Cyberpowers Powerpanel.
 https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
