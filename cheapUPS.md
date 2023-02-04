@@ -46,7 +46,10 @@ choose your install file.
 ![powerpanel](/../photos/powerpanel.png)
 
 Log into your node and download the `*deb` file.
+
 `curl -O https://[URL HERE].deb`
+
 Install
-`sudo dpkg -i [PATH]/[PACKAGE NAME].deb
+
+`sudo dpkg -i [PATH]/[PACKAGE NAME].deb`
 
