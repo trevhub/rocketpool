@@ -87,8 +87,10 @@ I modify the following:
 
 I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure.
 
-`powerfail-active = no`
-`powerfail-shutdown = no`
+```
+powerfail-active = no
+powerfail-shutdown = no
+```
 
 Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%)
 
