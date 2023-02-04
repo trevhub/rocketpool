@@ -7,7 +7,7 @@ First I picked up this used MiniPC from Ebay:
 ![HPelitedesk800mini](/../photos/800-g32.jpg)
 
 ### **HP EliteDesk 800 G3 Mini** ### 
-## [Review](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/) ##
+## [Review with internal photos](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/) ##
 
 System Specs:
 ```
