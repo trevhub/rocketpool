@@ -29,3 +29,5 @@ router (10W)
 ```
 48W works out to 19% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
 
+The connections:
+![ups connections](/../photos/UPSconnections.png)
