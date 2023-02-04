@@ -49,7 +49,7 @@ Log into your node and download the `*deb` file replacing `[CORRECT URL]` with t
 
 `curl -O https://[CORRECT URL]/PPL_64bit_v1.4.1.deb)`
 
-Install 
+Install replacing [PATH] with the location of the downloaded .deb file.
 
 `sudo dpkg -i [PATH]/PPL_64bit_v1.4.1.deb`
 
