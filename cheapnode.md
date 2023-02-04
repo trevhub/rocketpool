@@ -53,7 +53,7 @@ For other suitable NVMe drives that will meet the task of home staking read [Yor
 ![RAM and NVMe installed](/../photos/IMG_3583.png)
 
 
-After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. Sync took around 30 hours and then I restored my wallet.
+After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
 
 
 For a total of approximately $330.00USD This is the performance you can expect. 
