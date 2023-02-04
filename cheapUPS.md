@@ -55,6 +55,25 @@ Install replacing [PATH] with the location of the downloaded .deb file.
 
 connect the USB cable from UPS to your node. `sudo pwrstat -status` Should show an output like this. 
 
-![pwrstat](/../photos/pwrstat.png)
+```
+The UPS information shows as following:
 
+	Properties:
+		Model Name................... CP425SLG
+		Firmware Number.............. BF01803BA41.z
+		Rating Voltage............... 120 V
+		Rating Power................. 255 Watt
+
+	Current UPS status:
+		State........................ Normal
+		Power Supply by.............. Utility Power
+		Utility Voltage.............. 116 V
+		Output Voltage............... 116 V
+		Battery Capacity............. 100 %
+		Remaining Runtime............ 49 min.
+		Load......................... 45 Watt(18 %)
+		Line Interaction............. None
+		Test Result.................. Unknown
+		Last Power Event............. None
+```
 
