@@ -8,7 +8,7 @@ I looked for the cheapest UPS with the USB connection needed for a graceful shut
 
 
 ## Cyberpower CP425SLG ## 
-## MSRP: $57.95USD ##
+### MSRP: $57.95USD ###
 
 Specs:
 ```
