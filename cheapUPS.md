@@ -45,11 +45,11 @@ https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpan
 choose your install file.
 ![powerpanel](/../photos/powerpanel.png)
 
-Log into your node and download the `*deb` file.
+Log into your node and download the `*deb` file replacing `[CORRECT URL]` with the address
 
-`curl -O https://[URL HERE].deb`
+`curl -O https://[CORRECT URL]/PPL_64bit_v1.4.1.deb)`
 
-Install
+Install 
 
-`sudo dpkg -i [PATH]/[PACKAGE NAME].deb`
+`sudo dpkg -i [PATH]/PPL_64bit_v1.4.1.deb`
 
