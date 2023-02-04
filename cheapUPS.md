@@ -44,4 +44,5 @@ https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpan
 
 choose your install file.
 ![powerpanel](/../photos/powerpanel.png)
-I'm 
+
+Log into your node and download the `*deb` file.
