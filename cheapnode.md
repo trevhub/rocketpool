@@ -7,7 +7,7 @@ First I picked up this used MiniPC from Ebay:
 ![HPelitedesk800mini](/../photos/800-g32.jpg)
 
 ### **HP EliteDesk 800 G3 Mini** ### 
-Review with internal photos of RAM and NVMe location [here](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/)
+## [Review](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/) ##
 
 System Specs:
 ```
@@ -24,7 +24,7 @@ Power adapter included
 I found this on EBay, the seller had 50 of these units for sale. Lack of SSD makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
 
 
-Price: $69.99 + $22.96 shipping = $89.95USD
+## **Price: $69.99 + $22.96 shipping = $89.95USD** ##
 
 
 With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power. 8GB is not the recommended amount of ram in the rocketpool docs. At a minimum an additional 8GB stick of RAM is required. Because I didn’t want to be limited in what execution client and consensus client I purchased and installed 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
@@ -34,7 +34,7 @@ CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Mem
 
 
 Newegg.com Price
-Price: $79.99USD
+## **Price: $79.99USD** ##
 
 
 M.2 Nvme
@@ -42,7 +42,7 @@ Due to the data transfer demands of running a rocketpool node I did not cheap ou
 
 
 Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
-Price $159.99USD
+## **Price $159.99USD** ##
 
 
 
