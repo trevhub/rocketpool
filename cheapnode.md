@@ -16,12 +16,11 @@ Cores: 4
 Threads: 4
 TDP: 35W 
 Ram: 8GB DDR4 2400 SO-DIMM
-Hard drive:NO SSD
 PCIe 3.0 M.2 slot
 Power adapter included
 ```
 
-I found this on EBay, the seller had 50 of these units for sale. Lack of SSD makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
+I found this on EBay, the seller had 50 of these units for sale. No SSD was included which makes me believe these were all from an office environment where the drives were destroyed. Carefully read any used listing to confirm that a CPU and Power adapter are included. 
 
 
 ## **Price: $69.99 + $22.96 shipping = $89.95USD** ##
