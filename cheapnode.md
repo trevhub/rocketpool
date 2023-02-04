@@ -36,7 +36,7 @@ Due to the data transfer demands of running a rocketpool node I went with a suit
 
 
 Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
-## **NVMe Price $159.99USD** ##
+## **NVMe Price: $159.99USD** ##
 
 
 
