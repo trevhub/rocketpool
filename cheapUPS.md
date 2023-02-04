@@ -127,4 +127,16 @@ The UPS information shows as following:
 		Last Power Event............. None
 ```
 
-## **BIOS settings to Power your Staking machine on when power is present** ##
+## **AC Power Recovery BIOS settings** ##
+
+After the power is restored in order for your NUC or equilivant to automatically power on without you having to physically press the power button you must change the following setting in the BIOS.
+
+The example below is for an Intel NUC:
+```
+To set the Intel® NUC to power on whenever a power source is connected:
+Press F2 during boot to enter BIOS Setup.
+Go to the Power > Secondary Power Settings menu.
+Set the option for "After Power Failure" to "Power On".
+Press F10 save changes and exit BIOS.
+```
+
