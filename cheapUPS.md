@@ -53,7 +53,39 @@ Install replacing [PATH] with the location of the downloaded .deb file.
 
 `sudo dpkg -i [PATH]/PPL_64bit_v1.4.1.deb`
 
-connect the USB cable from UPS to your node. `sudo pwrstat -status` Should show an output like this. 
+connect the USB cable from UPS to your node. 
+
+`sudo pwrstat -config` will show your current UPS config.
+```
+Daemon Configuration:
+
+Alarm .............................................. On
+Hibernate .......................................... Off
+Cloud .............................................. Off
+
+Action for Power Failure:
+
+	Delay time since Power failure ............. 60 sec.
+	Run script command ......................... Off
+	Path of script command ..................... /etc/pwrstatd-powerfail.sh
+	Duration of command running ................ 0 sec.
+	Enable shutdown system ..................... On
+
+Action for Battery Low:
+
+	Remaining runtime threshold ................ 300 sec.
+	Battery capacity threshold ................. 35 %.
+	Run script command ......................... On
+	Path of command ............................ /etc/pwrstatd-lowbatt.sh
+	Duration of command running ................ 0 sec.
+	Enable shutdown system ..................... On
+
+```
+To configure what happens in the event of a shutdown edit `sudo nano /etc/pwrstatd-powerfail.sh`
+
+For low battery event edit`sudo nano /etc/pwrstatd-lowbatt.sh`
+
+`sudo pwrstat -status` Should show an output like this. 
 
 ```
 The UPS information shows as following:
