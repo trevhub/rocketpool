@@ -27,7 +27,7 @@ I found this on EBay, the seller had 50 of these units for sale. Lack of SSD mak
 ## **Price: $69.99 + $22.96 shipping = $89.95USD** ##
 
 
-With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. 8GB is not the recommended amount of ram in the rocketpool docs. At a minimum an additional 8GB stick of RAM is required. Because I didn’t want to be limited in what execution client and consensus client I purchased and installed 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
+With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. 8GB is not the recommended amount of ram in the rocketpool docs. At a minimum an additional 8GB stick of RAM is required. Because I didn’t want to be [limited in what execution client and consensus client I could run](https://docs.rocketpool.net/guides/node/local/hardware.html#hardware-requirements) I purchased and installed 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
 
 
 CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Memory
@@ -38,7 +38,7 @@ Newegg.com Price
 
 
 M.2 Nvme
-Due to the data transfer demands of running a rocketpool node I did not cheap out in this area of the build. The Elitedesk 800 supports PCIe 3.0x so I went with:
+Due to the data transfer demands of running a rocketpool node I went with a suitable 2TB NVMe drive that will meet the demands of staking from [Yorrick’s Overview](https://gist.github.com/yorickdowne/f3a3e79a573bf35767cd002cc977b038) of various options. The Elitedesk 800 supports PCIe 3.0x so I went with:
 
 
 Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
@@ -47,7 +47,7 @@ Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
 
 
 
-For other suitable NVMe drives that will meet the task of home staking read [Yorrick’s guide](https://gist.github.com/yorickdowne/f3a3e79a573bf35767cd002cc977b038).
+
 
 
 ![RAM and NVMe installed](/../photos/IMG_3583.png)
