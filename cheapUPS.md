@@ -54,5 +54,5 @@ Install replacing [PATH] with the location of the downloaded .deb file.
 `sudo dpkg -i [PATH]/PPL_64bit_v1.4.1.deb`
 
 connect the USB cable from UPS to your node. `sudo pwrstat -status` Should show an output like this. 
-[pwrstat](/../photos/Screenshot from 2023-02-04 16-12-42.png)
+![pwrstat](/../photos/Screenshot from 2023-02-04 16-12-42.png)
 
