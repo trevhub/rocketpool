@@ -63,8 +63,8 @@ For a total of approximately $330.00USD This is the performance you can expect.
 
 Running Lighthouse/Nethermind:
 ```
-IOPS Read = 109K (recommended 15k in RP documentation)
-IOPS Write = 36.4K (recommended 5k in RP documentation)
+IOPS Read = 109K (recommended min. 15k for Rocketpool)
+IOPS Write = 36.4K (recommended min. 5k for Rocketpool)
 CPU load averaging under 40%
 Measured Avg Power over 24hr period: 13.05W 
 RAM usage is 22GB (note: running nethermind)
