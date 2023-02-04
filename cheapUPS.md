@@ -7,11 +7,8 @@ Most staking machines use under 25W of power the load requirements are pretty lo
 I looked for the cheapest UPS with the USB connection needed for a graceful shutdown.
 
 
-Cyberpower
-
-CP425SLG
-
-MSRP: $57.95USD
+## Cyberpower CP425SLG ## 
+## MSRP: $57.95USD ##
 
 Specs:
 ```
