@@ -51,6 +51,7 @@ Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
 ![RAM and NVMe installed](/../photos/IMG_3583.png)<sub> The fan unit flips up easily to install the Memory. SSD cradle was removed and there is room for a large NVMe Headsink. </sub>
 
 
+## **Performance** ##
 After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
 
 
