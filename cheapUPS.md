@@ -1,5 +1,4 @@
 # Protecting your Rocketpool node from power outages on the cheap #
-<sub>Trevorn.eth</sub>
 
 An uninterruptible power supply (UPS) is a device that allows a computer to keep running for at least a short time when incoming power is interrupted. Along with the obvious power connection, a secondary connection via USB can trigger a **graceful shutdown** to your staking machine in the event of a power loss. Without this in place, a **hard shutdown** can cause corruption of program and operating system files causing the need to hop on the rescue node and re-sync from scratch. With Ice storms, hurricanes, and terrible power utility infrastructure I wanted to protect against these events the cheapest way possible. My goal wasn’t to stay up with battery power for any meaningful length of time, just to gracefully shut down my staking machine, then when power is restored, automatically start up and continue attesting on the ethereum network. Total hands-of, worry free operation. 
 
@@ -143,3 +142,5 @@ Press F10 save changes and exit BIOS.
 
 ### **Conclusion:** ###
 With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be send to your staking machine turning it off, modem will stay on draining the rest of the power. When power is restored the staking machine will automatically turn on, sync to the network and resume.
+
+- Trevorn.eth
