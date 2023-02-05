@@ -11,7 +11,7 @@ First I picked up this used MiniPC from Ebay:
 
 System Specs:
 ```
-Released in 2017
+Released Date: 2017
 Processor: 6th gen Intel i5-6500T 2.50GHz 
 Cores: 4
 Threads: 4
