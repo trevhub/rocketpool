@@ -48,7 +48,7 @@ Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
 
 
 
-![RAM and NVMe installed](/../photos/IMG_3583.png)<sub> The fan unit flips up easily to install the Memory. SSD cradle was removed and there is room for a large NVMe Headsink. </sub>
+![RAM and NVMe installed](/../photos/IMG_3583.png)<sub> The fan unit flips up easily to install the Memory. SSD cradle was removed and there is clearance for a NVMe Headsink. </sub>
 
 
 ## **Performance** ##
