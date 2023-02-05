@@ -45,11 +45,11 @@ https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpan
 choose your install file.
 ![powerpanel](/../photos/powerpanel.png)
 
-Log into your node and download the `*deb` file replacing `[CORRECT URL]` with the address
+Log into your staking machine and download the `*deb` file replacing `[CORRECT URL]` with the address
 
 `curl -O https://[CORRECT URL]/PPL_64bit_v1.4.1.deb)`
 
-Install replacing [PATH] with the location of the downloaded .deb file.
+Install this package by replacing [PATH] with the location of the downloaded .deb file.
 
 `sudo dpkg -i [PATH]/PPL_64bit_v1.4.1.deb`
 
@@ -92,7 +92,7 @@ powerfail-active = no
 powerfail-shutdown = no
 ```
 
-Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%). Any devices that are not your node and are plugged in to the battery powered plugs will continue to be powered until the battery is totally drained. 
+Here you can set at what percentage of battery the shutdown signal will be sent to your node. (Range is 0%-90% The default is 35%). Any devices that are not your node and are plugged in to the **battery powered plugs** will continue to be powered until the battery is totally drained. 
 
 `lowbatt-threshold = 35`
 
@@ -129,7 +129,7 @@ The UPS information shows as following:
 
 ## **AC Power Recovery BIOS settings** ##
 
-After the power is restored in order for your NUC or equilivant to *automatically power on* without you having to physically press the power button you must change the following setting in the BIOS.
+After the power is restored in order for your NUC or equilivant to *automatically power on* without having to physically press the power button you must change the following setting in the BIOS. These steps will be different depending on your machine.
 
 The example below is for an Intel NUC:
 ```
