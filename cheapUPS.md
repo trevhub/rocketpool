@@ -7,6 +7,7 @@ Most staking machines use under 25W of power so the load requirements are pretty
 ## Cyberpower CP425SLG ## 
 ### MSRP: $57.95USD ###
 ![CP425SLG](/../photos/CP425SLG_F2.jpg)
+
 Specs:
 - Capacity: 425 VA / 255 W
 - Topology: Standby
