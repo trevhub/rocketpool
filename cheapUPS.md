@@ -85,14 +85,14 @@ To configure the above setting run `sudo nano /etc/pwrstatd.conf`
 
 I modify the following:
 
-I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure find the following and switch to no.
+I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure. Find the following and switch to no.
 
 ```
 powerfail-active = no
 powerfail-shutdown = no
 ```
 
-Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%). Any devices that are not your node and are plugged in to the battery powered plugs will continue to be powered until the battery is totally drained.
+Here you can set at what percentage of battery the shutdown signal will be sent to your node. (0%-90% default is 35%). Any devices that are not your node and are plugged in to the battery powered plugs will continue to be powered until the battery is totally drained. 
 
 `lowbatt-threshold = 35`
 
@@ -100,7 +100,7 @@ I turn the alarm off (I'll notice the power has gone out if I am home, if not I'
 
 `enable-alarm = off`
 
-You can also enable email notifications. User manual is in the PowerPanel downloads page.
+You can also enable email notifications. The PowerPanel user manual is on the same downloads page as the install file.
 
 
 `sudo pwrstat -status` Should show an output like this. 
@@ -129,7 +129,7 @@ The UPS information shows as following:
 
 ## **AC Power Recovery BIOS settings** ##
 
-After the power is restored in order for your NUC or equilivant to automatically power on without you having to physically press the power button you must change the following setting in the BIOS.
+After the power is restored in order for your NUC or equilivant to *automatically power on* without you having to physically press the power button you must change the following setting in the BIOS.
 
 The example below is for an Intel NUC:
 ```
@@ -140,4 +140,5 @@ Set the option for "After Power Failure" to "Power On".
 Press F10 save changes and exit BIOS.
 ```
 
+### **Conclusion:** ###
 With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be send to your staking machine turning it off, modem will stay on draining the rest of the power. When power is restored the staking machine will automatically turn on, sync to the network and resume.
