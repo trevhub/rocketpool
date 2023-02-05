@@ -8,25 +8,23 @@ Most staking machines use under 25W of power so the load requirements are pretty
 ### MSRP: $57.95USD ###
 ![CP425SLG](/../photos/CP425SLG_F2.jpg)
 Specs:
-```
-Capacity: 425 VA / 255 W
-Topology: Standby
-Waveform: Simulated Sine Wave
-Output: 120 VAC ± 5%
-Plug type & cord: NEMA 5-15P, 5 ft. cord
-Outlet types: 8 × NEMA 5-15R
-Communication ports: USB
-Management software: PowerPanel® Personal
-Warranty: 3 year
-Connected Equipment Guarantee: $75,000
-```
+- Capacity: 425 VA / 255 W
+- Topology: Standby
+- Waveform: Simulated Sine Wave
+- Output: 120 VAC ± 5%
+- Plug type & cord: NEMA 5-15P, 5 ft. cord
+- Outlet types: 8 × NEMA 5-15R
+- Communication ports: USB
+- Management software: PowerPanel® Personal
+- Warranty: 3 year
+- Connected Equipment Guarantee: $75,000
+
 A 255W capacity is more than enough for my needs.
-```
-staking machine (13W) 
-fiber modem (25W) 
-router (10W) 
-= 48W
-```
+- staking machine (13W) 
+- fiber modem (25W) 
+- router (10W) 
+### = 48W ###
+
 48W works out to 19% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
 
 The connections:
