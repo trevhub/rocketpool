@@ -55,7 +55,7 @@ Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
 After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
 
 
-For a total of approximately $330.00USD This is the performance you can expect. 
+For a total of approximately $330.00USD This is the performance you can expect: 
 
 ![Grafana Dashboard](/../photos/elitedesk800.png)
 
