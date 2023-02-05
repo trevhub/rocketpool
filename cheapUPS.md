@@ -1,8 +1,8 @@
 # Protecting your Rocketpool node from power outages on the cheap #
 
-An uninterruptible power supply (UPS) is a device that allows a computer to keep running for at least a short time when incoming power is interrupted. Along with a power connection and a secondary connection via USB this can trigger a **graceful shutdown** to your staking machine in the event of a power loss. Without this in place, a **hard shutdown** can cause corruption of program and operating system files causing the need to hop on the rescue node and re-sync from scratch. With Ice storms, hurricanes, and terrible power utility infrastructure I wanted to protect against these events the cheapest way possible. My goal wasn’t to stay up with battery power for any meaningful length of time, just to gracefully shut down my staking machine, then when power is restored automatically start it and continue attesting on the ethereum network. Total hands-of, worry free operation.
+An uninterruptible power supply (UPS) is a device that allows a computer to keep running for at least a short time when incoming power is interrupted. Along with the power connection and a secondary connection via USB can trigger a **graceful shutdown** to your staking machine in the event of a power loss. Without this in place, a **hard shutdown** can cause corruption of program and operating system files causing the need to hop on the rescue node and re-sync from scratch. With Ice storms, hurricanes, and terrible power utility infrastructure I wanted to protect against these events the cheapest way possible. My goal wasn’t to stay up with battery power for any meaningful length of time, just to gracefully shut down my staking machine, then when power is restored automatically start it and continue attesting on the ethereum network. Total hands-of, worry free operation. 
 
-Most staking machines use under 25W of power so the load requirements are pretty low. I looked for the cheapest UPS with the USB connectivity needed for a graceful shutdown command to a PC.
+Most staking machines use under 25W of power so the load requirements are pretty low. I looked for the cheapest UPS *with USB connectivity* needed for a graceful shutdown command to a PC. There are less expensive UPS options but they lack this function.
 
 ## Cyberpower CP425SLG ## 
 ### MSRP: $57.95USD ###
@@ -31,13 +31,13 @@ router (10W)
 
 The connections:
 ![ups connections](/../photos/UPSconnections.png)
-The left side of the CP425SLG is for surge protection and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
+The left side of the CP425SLG is for *surge protection only* and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
 
 ## **Installing the Cyberpower software on your node:** ##
 
-There are two options for UPS management in linux. **[Cyberpowers PowerPanel](https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/)** to configure and monitor your UPS or **[Network UPS Tools](https://networkupstools.org/)**. NUT is A free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models.
+There are two options for UPS management in linux. **[Cyberpowers PowerPanel](https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/)** to configure and monitor your UPS or **[Network UPS Tools](https://networkupstools.org/)**. NUT is A free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models. I went with PowerPanel.
 
-*Security Note: you are about to install software on your staking machine, always independently verify URLs.*
+## **Security Note: You are about to install software on your staking machine, always proceed with caution and verify URLs.** ##
 
 I went with Cyberpowers Powerpanel.
 https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
