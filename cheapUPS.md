@@ -85,7 +85,7 @@ To configure the above setting run `sudo nano /etc/pwrstatd.conf`
 
 I modify the following:
 
-I want to send the shutdown signal on a specific battery percentage remaining, not with a power failure. Find the following and switch to no.
+I want to send the shutdown signal on a specific battery percentage remaining, not automatically with a power failure. Find the following and switch to no.
 
 ```
 powerfail-active = no
