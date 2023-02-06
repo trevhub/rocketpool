@@ -78,6 +78,6 @@ Add NVMe Temp to your gradana dashboard following this [guide by Patches](https:
 
 
 
-*Other considerations: Used miniPCs like this one may have been run 24/7 for years so I blew it out with compressed air, removed the heatsink, applied new thermal paste to the CPU. During initial sync CPU load was pegged at 100% and the NVMe temps spiked to the mid 70’s C so I also added an cheap NVMe heatsink.*
+*Other considerations: Used miniPCs like this one may have been run 24/7 for years so I blew it out with compressed air, removed the heatsink, applied new thermal paste to the CPU. Updating the BIOS can be done from in the BIOS with a network connection. During initial sync CPU load was pegged at 100% and the NVMe temps spiked to the mid 70’s C so I also added a cheap NVMe heatsink.*
 
 Trevorn.eth
