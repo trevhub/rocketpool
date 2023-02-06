@@ -39,7 +39,7 @@ With 4 cores and 4 threads this machine will be very capable to run your rocketp
 Due to the data transfer demands of running a rocketpool node I went with a suitable 2TB NVMe drive that will meet the demands of staking from [Yorrick’s Overview](https://gist.github.com/yorickdowne/f3a3e79a573bf35767cd002cc977b038) of various options. The Elitedesk 800 supports PCIe 3.0x so I went with:
 
 
-Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3
+**Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3**
 ### **NVMe Price: $159.99USD** ###
 
 
