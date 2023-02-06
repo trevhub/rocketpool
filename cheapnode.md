@@ -52,9 +52,7 @@ Due to the data transfer demands of running a rocketpool node I went with a suit
 
 
 ## **Performance** ##
-After a BIOS update I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
-
-
+I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
 For a total of approximately $330.00USD This is the performance you can expect: 
 
 ![Grafana Dashboard](/../photos/elitedesk800.png)
