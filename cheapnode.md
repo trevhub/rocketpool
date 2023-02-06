@@ -27,7 +27,7 @@ The seller had 50 of these units for sale. No SSD was included which makes me be
 
 
 ## **Memory** ##
-With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. The machine shipped with 8GB. This is below the recommended amount of ram in the rocketpool docs. At the minimum an additional 8GB stick was required. I didn’t want to be [limited in what execution client and consensus client I could run](https://docs.rocketpool.net/guides/node/local/hardware.html) so I purchased 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
+With 4 cores and 4 threads this machine will be very capable to run your rocketpool node, a TDP of 35W means it will use a small amount of power while staking. The machine shipped with a single stick of 8GB DDR4 2400 SO-DIMM. This is below the recommended amount of ram in the rocketpool docs. At the minimum an additional 8GB stick was required. I didn’t want to be [limited in what execution client and consensus client I could run](https://docs.rocketpool.net/guides/node/local/hardware.html) so I purchased 32GB of RAM. This is also the maximum supported by the HP Elitedesk 800 G3 Mini.
 
 **CORSAIR Vengeance 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2400 (PC4 19200) Memory**
 
